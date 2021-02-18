@@ -1,0 +1,22 @@
+{
+  "name": "elsatech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALUtech166/Elsatech.git"
+  },
+  "author": "Serge Tassiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALUtech166/Elsatech/issues"
+  },
+  "homepage": "https://github.com/ALUtech166/Elsatech#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
